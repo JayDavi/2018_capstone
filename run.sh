@@ -1,0 +1,9 @@
+cd WebScrappers
+python WebScrapperCNN.py
+python WebScrapperNY.py
+python WebScrapperGLENN.py
+python WebScrapperBB.py
+cd ..
+python splitBodies.py
+python kerasM.py
+python predict.py

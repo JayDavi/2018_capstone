@@ -1,0 +1,60 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf400
+{\fonttbl\f0\fnil\fcharset0 Georgia;\f1\fnil\fcharset0 LucidaGrande;\f2\fnil\fcharset0 LucidaGrande-Bold;
+}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green255\blue255;\red0\green0\blue0;
+}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0\c84314;\cssrgb\c100000\c100000\c100000;\cssrgb\c0\c0\c0;
+}
+\margl1440\margr1440\vieww16560\viewh20520\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs42 \cf2 \cb3 \expnd0\expndtw0\kerning0
+I remember where I was when the\'a0{\field{\*\fldinst{HYPERLINK "http://abcnews.go.com/Archives/video/april-20-1999-columbine-shooting-9541833"}}{\fldrslt mass shooting at Columbine}}\'a0High School happened
+\f1 \uc0\u8202 
+\f0 \'97
+\f1 \uc0\u8202 
+\f0 the offices of the\'a0{\field{\*\fldinst{HYPERLINK "http://www.dailytarheel.com/"}}{\fldrslt Daily Tar Heel}}\'a0Newspaper on the campus of the University of North Carolina at Chapel Hill. All the staff stood around in shock. We\'92d seen school violence, we\'92d seen mass shootings, but this
+\f1 \uc0\u8202 
+\f0 \'97
+\f1 \uc0\u8202 
+\f0 this was different.\
+So planned, so military, so calculated and so, apparently, random. Surely, many of us thought, Americans would have to stop everything and figure out what\'92s wrong.\
+But we didn\'92t. We went on.\
+I don\'92t remember where I was when I heard about any other school shooting. They\'92ve become a fact of life. No shock, just resigned grief.\
+Are guns to blame?\'a0{\field{\*\fldinst{HYPERLINK "http://www.businessinsider.com/why-most-terrorists-and-mass-shooters-are-millennial-men-2017-11"}}{\fldrslt Young male rage\'a0}}seems at least equally at fault
+\f1 \uc0\u8202 
+\f0 \'97
+\f1 \uc0\u8202 
+\f0 whether we call it mental illness, toxic masculinity, a sickness in our society, or a culture of violence, it\'92s an undeniable reality.\'a0{\field{\*\fldinst{HYPERLINK "http://pix11.com/2018/02/09/the-young-and-the-depressed-social-media-family-history-and-pressure-to-succeed-heightened-anxiety-disorders/"}}{\fldrslt Boys are learning}}\'a0that violence is power, that life is dispensable, and that, if they aren\'92t popular, athletic, strong, or smart,\'a0{\field{\*\fldinst{HYPERLINK "https://mic.com/articles/85757/7-damaging-lies-we-teach-boys-about-how-to-become-a-real-man#.K2HRodh6L"}}{\fldrslt they have very little value}}.\
+Yes, we need more and better mental health care in this country, and we need increased access. But making this into solely a mental health problem isn\'92t helpful (see below).\
+A culture change, especially among young men, would be. But cultural change takes time. And of course, it is really impossible to legislate
+\f1 \uc0\u8202 
+\f0 \'97
+\f1 \uc0\u8202 
+\f0 unlike successful gun control.\
+Gun control isn\'92t \'93the answer\'94. But it\'92s surely a piece of the puzzle.\
+None of us, I think, have much hope that we can change many minds in arguments over the Second Amendment. But it appears, with enough public tragedy,\'a0{\field{\*\fldinst{HYPERLINK "http://news.gallup.com/poll/1645/guns.aspx"}}{\fldrslt the needle moves a little}}.\
+The status quo comes in many forms, and one is some really dumb arguments that get made repeatedly in the noosphere. Here are some we all hear a lot.\
+You\'92ve probably heard the responses before
+\f1 \uc0\u8202 
+\f0 \'97
+\f1 \uc0\u8202 
+\f0 hell you\'92ve probably written several yourself! But it might be helpful to have them all in one place, with citations. Hyperlinks provide solid sources, as well as examples of these stupid arguments (so you know I didn\'92t invent a straw man) and some further reading.\
+\
+
+\b \cf4 Guns do{\field{\*\fldinst{HYPERLINK "https://www.mediamatters.org/blog/2013/09/17/media-figures-say-guns-dont-kill-people-video-g/195921"}}{\fldrslt n\'92t kill people}}\cf2 , people do.\'a0{\field{\*\fldinst{HYPERLINK "http://insider.foxnews.com/2017/10/05/new-york-times-writer-calls-repeal-second-amendment-five-reacts"}}{\fldrslt \cf4 If they dont use a gun, they\'92ll use something else}}
+\f2 \uc0\u8202 
+\f0 \'97
+\f2 \uc0\u8202 
+\f0 like a hammer, knife, or bomb
+\b0 \
+Right
+\f1 \uc0\u8202 
+\f0 \'97
+\f1 \uc0\u8202 
+\f0 but with the possible exception of bombs, guns make it much easier, don\'92t they? Isn\'92t that why the Second Amendment protects guns and not knives or hammers? Isn\'92t that why mass killers so often choose guns
+\f1 \uc0\u8202 
+\f0 \'97
+\f1 \uc0\u8202 
+\f0 not baseball bats? There will always be objects that can be used as a weapon. But why make it easier? Would you rather confront a killer with a gun, or with a bat?}
