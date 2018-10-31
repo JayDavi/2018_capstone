@@ -21,14 +21,15 @@ path = 'Article_Bodies/fullBody.csv'
 w2vPath = 'Article_Bodies/vec/model.csv'
 mpath = 'Model/'
 # fix random seed for reproducibility
-print 'start....'
+print('start....')
+
 seed = 7
 numpy.random.seed(seed)
 
 # load dataset
 #Get articles
 dataframe = pandas.read_csv(path)
-print '-'*91
+print('-'*91)
 # split into input (X) and output (Y) variables
 X = dataframe['Body']
 Y = dataframe['Stance'] # Labels
@@ -43,14 +44,14 @@ t.fit_on_texts(X)
 vocab_size = len(t.word_index) + 1
 
 # integer encode the documents
-print 'integer encoding docs......'
+print('integer encoding docs......')
 encoded_docs = t.texts_to_sequences(X)
 
 
 # pad documents to a max length of 300 words
 max_length = 300
 padded_docs = pad_sequences(encoded_docs, maxlen=max_length, padding='post')
-print 'loading whole emmbeding.......'
+print('loading whole emmbeding.......')
 
 # load the whole embedding into memory
 embeddings_index = dict()
@@ -93,15 +94,15 @@ def create_baseline():
     # serialize weights to HDF5
     file = mpath + "model.h5"
     model.save_weights(mpath + "model.h5")
-    print "Saved model to disk"
+    print("Saved model to disk")
     return model
 
 # evaluate model with standardized dataset
-print 'start Classifier'
+print('start Classifier')
 estimator = KerasClassifier(build_fn=create_baseline, epochs=10, batch_size=5)
-print 'start kfold'
+print('start kfold')
 kfold = StratifiedKFold(n_splits=10, shuffle=True, random_state=seed)
-print 'cross val score'
+print('cross val score')
 results = cross_val_score(estimator=estimator, X=padded_docs, y=Y, cv=kfold, n_jobs=1)
-print "Results: %.2f%% (%.2f%%)" % (results.mean()*100, results.std()*100)
-print 'Done!......'
+print("Results: %.2f%% (%.2f%%)" % (results.mean()*100, results.std()*100))
+print('Done!......')
